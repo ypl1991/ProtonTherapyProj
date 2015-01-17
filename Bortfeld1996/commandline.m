@@ -1,5 +1,6 @@
 % Last edited: 16th Jan
 % Command line file to adjust parameters, plot graphs from functions
+% test
 
 close all; clear all; clc; clear mem;
 
